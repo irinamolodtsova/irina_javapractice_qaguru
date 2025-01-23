@@ -1,4 +1,4 @@
-package ru.irinamolodtova.qa.guru;
+package ru.irinamolodtova;
 
 public class JavaPart1 {
     public static void main(String[] args) {
@@ -29,9 +29,5 @@ public class JavaPart1 {
         System.out.println(maxDouble + 20);
         System.out.println(minFloat - 2);
         System.out.println(minDouble - 2);
-
-
-
-
     }
 }
